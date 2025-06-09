@@ -78,5 +78,4 @@ This Power BI project visualizes and analyzes customer churn based on demographi
 
 **Deena Lad**  
 M.Tech – Data Science  
-Pandit Deendayal Energy University  
-[LinkedIn]([https://www.linkedin.com/in/deena-lad-307645214/]) • [GitHub](https://github.com/your-profile)
+[LinkedIn](https://www.linkedin.com/in/deena-lad-307645214/) • [GitHub](https://github.com/deena-lad)
